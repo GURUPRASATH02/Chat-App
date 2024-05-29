@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 0;
+    color: #333;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    color: #007bff;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+}
+
+.project-description p,
+.team p {
+    line-height: 1.6;
+    color: #555;
+}
+
+.features ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #555;
+}
+
+.features li {
+    margin-bottom: 10px;
+}
+
+.team-member {
+    margin-bottom: 20px;
+}
+
+.team-member h3 {
+    margin: 0;
+    color: #333;
+}
+
+.team-member p {
+    margin: 5px 0 0;
+    color: #777;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #ccc;
+    color: #777;
+}
